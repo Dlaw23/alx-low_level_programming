@@ -1,6 +1,7 @@
 #include <stdio.h>
-#include <unistd.h>                                                                                                                      
-/** 
+#include <unistd.0>
+
+/**
  * main - Entry
  * Return: Always 1
 */
